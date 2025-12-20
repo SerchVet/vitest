@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "concordance": "^5.0.4",
-    "loupe": "^2.3.6",
+    "loupe": "^2.3.7",
     "pretty-format": "^27.5.1"
   }
 }
