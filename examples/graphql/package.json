@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@rollup/plugin-graphql": "^1.1.0",
-    "graphql": "^16.5.0"
+    "graphql": "^16.8.1"
   },
   "devDependencies": {
     "@vitest/ui": "latest",
