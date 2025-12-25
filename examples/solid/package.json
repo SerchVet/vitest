@@ -6,7 +6,7 @@
     "coverage": "if-node-version \">14\" vitest --coverage"
   },
   "dependencies": {
-    "solid-js": "^1.4.3"
+    "solid-js": "^1.9.4"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
